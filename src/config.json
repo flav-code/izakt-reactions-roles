@@ -1,0 +1,31 @@
+{
+    "token": "",
+    "guilds": [
+        {
+            "id": "975666753214484490",
+            "messages": [
+                {
+                    "name": "Test",
+                    "channel_id": "1057782285937676378",
+                    "id": "1057786535514226719",
+                    "message": {
+                        "content": null,
+                        "embeds": [
+                            {
+                                "color": "0x947cea",
+                                "title": "Reaction role",
+                                "description": "Description of the message"
+                            }
+                        ]
+                    },
+                    "reactions": [
+                        {
+                            "emoji": "flavibotnewmanager:1057784650170380378",
+                            "role_id": "1057793610344575106"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
