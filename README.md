@@ -1,6 +1,10 @@
 # izakt-reactions-roles
 
 
+Tou will have to install the dependencies:
+```
+npm i
+```
 
 ```js
 {
