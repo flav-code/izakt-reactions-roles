@@ -6,6 +6,8 @@ Tou will have to install the dependencies:
 npm i
 ```
 
+
+The config with details
 ```js
 {
     "token": "", // Token of your bot
